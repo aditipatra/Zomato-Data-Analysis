@@ -10,3 +10,5 @@ of a location which I did using geospatial analysis.
 The data is accurate to that available on the Zomato website until 15 March,2019.
 
 Link to the dataset: https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+
+NB: If the .ipynb file doesn't load, click on this: https://nbviewer.jupyter.org/github/aditipatra/Zomato-Data-Analysis/blob/main/Zomato%20Data%20Analysis.ipynb
